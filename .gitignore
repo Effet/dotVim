@@ -1,2 +1,4 @@
 .netrwhist
-bundle/
+bundle/*/
+!bundle/vundle/
+#!bundle/vundle/*
